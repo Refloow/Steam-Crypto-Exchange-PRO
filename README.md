@@ -84,6 +84,8 @@ Its structure consists of a storefront account and  unlimited amount of storage 
 Storage accounts are used to store the keys, craft the trades for both user buying and user selling orders. 
 Alongside the main storefront, storage accounts also run a set of checks. The process of constructing trades from the main storefront account is controlled via a load balancer, which gets the requests from the storefront and then distributes the request, sending an additional one to each of the accounts to actually construct the trades.
 
+### Not all features and capabilities are publicly disclosed
+
 # contact
 
 - Discord: @refloow userid: 749452967207501836
