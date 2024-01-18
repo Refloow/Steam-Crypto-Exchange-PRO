@@ -24,6 +24,7 @@ Discord server: https://discord.gg/hcafD8Be7X
 - User accounts auto handling system
 - Order history (Completed, Half Completed, Declined)
 - User chatlogs by day & buy user
+- Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
 
 ## More features:
 
