@@ -1,0 +1,23 @@
+{
+  "name": "steam-crypto-exchange-pro",
+  "version": "1.0.0",
+  "description": "TF2 Steam Key to crypto exchange bot using binance",
+  "main": "./app/index.js",
+  "keywords": [
+    "Steam",
+    "Bot",
+    "TF2Key",
+    "Keys",
+    "Crypto",
+    "Exhange",
+    "Binance",
+    "BinancePay",
+    "TF2",
+    "Key",
+    "NODEJS",
+    "NODE",
+    "Trading",
+    "Trade"
+  ],
+  "author": "Veljko Vuckovic (Refloow.com)"
+}
