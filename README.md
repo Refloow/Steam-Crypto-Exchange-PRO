@@ -25,7 +25,9 @@ Contact:
 ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/dc76c539-dfc2-492d-862d-8761643a6391)
 
 - stock playing message:
-- ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/01f7e06a-8619-4de8-9695-ee320fc66d9e)
+    - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/01f7e06a-8619-4de8-9695-ee320fc66d9e)
+    - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/b9cea322-a173-4e9e-81a1-4bf46308ce17)
+
 
 - Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
 - Auto accepting of the online friend requests
