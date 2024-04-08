@@ -27,15 +27,20 @@ Contact:
 - stock playing message:
 - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/01f7e06a-8619-4de8-9695-ee320fc66d9e)
 
-- Auto accepting of the friend requests
-- Auto accepting handdling of the friend requests sent while the system was offline
+- Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
+- Auto accepting of the online friend requests
+    - Bonus accepting handdling of the friend requests sent while the system was offline
 - Invite to selected groups
+    - Option to reject or auto accept group invites   
 - Spam detection and prevention system
+    - Alerting admins, auto removing & option to block the user    
 - Admin commands
 - Variety of user commands
 - Indepth customizability
 - Admin console logs indicating what is currently happening in an easy manner:
    - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/b0fca6ed-79ab-4a37-bcbc-94ae0c9b6378)
+   - Live display of commands & user messages ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/10969073-905a-462a-b27a-a16d38cc29d4)
+
 
 - Admin proof of reserve check on start
     - In case of an issue spotted, alerting admins:
@@ -44,7 +49,6 @@ Contact:
 - User accounts auto handling system
 - Order history (Completed, Half Completed, Declined)
 - User chatlogs by day & buy user
-- Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
 
 ## More features:
 
