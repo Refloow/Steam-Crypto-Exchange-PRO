@@ -37,6 +37,7 @@ Contact:
 - Spam detection and prevention system
     - Alerting admins, auto removing & option to block the user    
 - Admin commands
+- Sell only mode (users can only sell keys without buying any keys)
 - Variety of user commands
 - Indepth customizability
 - Admin console logs indicating what is currently happening in an easy manner:
