@@ -30,6 +30,16 @@ Contact:
 
 
 - Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
+- All binance available networks for withdrawal supported:
+    - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/2325628b-094f-4a0d-803e-467d0b08bdb0)
+    - option to manually disable any network for any reason in configuration
+    - networks are checked and data is shown in case of withdrawals not being available for certain networks on binance:
+        - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/3bc71e8f-8597-4e55-9ece-33b304f5d439)
+    - All fields and networks are validated for its availability, and addresses provided for withdrawal:
+        - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/7d902052-ceb6-48b3-acd1-e06b48e88189)
+        - addresses are validated per network, even showcasing example addresses generated on spot for all coins and their networks: ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/def8ccc7-5524-42a3-a6d3-e34928fbbabf)
+
+ 
 - Auto accepting of the online friend requests
     - Bonus accepting handdling of the friend requests sent while the system was offline
 - Invite users to selected groups
