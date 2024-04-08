@@ -37,7 +37,8 @@ Contact:
         - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/3bc71e8f-8597-4e55-9ece-33b304f5d439)
     - All fields and networks are validated for its availability, and addresses provided for withdrawal:
         - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/7d902052-ceb6-48b3-acd1-e06b48e88189)
-        - addresses are validated per network, even showcasing example addresses generated on spot for all coins and their networks: ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/def8ccc7-5524-42a3-a6d3-e34928fbbabf)
+        - addresses are validated per network, even showcasing example addresses generated on spot for all coins and their networks: ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/f9126fb5-1ac8-4df8-91ee-8e132776c4a5)
+
 
  
 - Auto accepting of the online friend requests
@@ -84,6 +85,12 @@ Contact:
 ### Its custom playing message:
 
 ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/29d7e3bb-8b96-46db-8e34-f56eb8ee0b47)
+
+### Posibility of a website with connection showcasing / displaying all data:
+
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/72d4f8d5-3431-4235-bfd6-0293b3b2e9b5)
+- fully scalable with mobile support:
+- ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/237c3d79-4773-4e5f-b16d-39b3ce86a8ae)
 
 
 
