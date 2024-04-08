@@ -1,19 +1,30 @@
 # Steam-Crypto-Exchange-PRO
-Steam-Crypto-Exchange-PRO is an cryptocurrency (300+ cryptos supported) tf2 key trading cashout exchange service storefront with storage accounts integrated with Binance. Fully professional commercial software with endless customization and variety of features.
-- Includes own web panel with statistics (wip)
-- Has 300+ cryptocurrencies supported and can be set for users to exchange keys for / withdraw via Binance.
-- Supports storage accounts and adding new ones with very few simple steps
+Steam-Crypto-Exchange-PRO is an cryptocurrency (400+ cryptos supported) tf2 key trading cashout exchange service storefront with storage accounts integrated with Binance. Fully professional commercial software with endless customization and variety of features.
+
+- Has 400+ cryptocurrencies supported and can be set for users to exchange keys for / withdraw via Binance.
+- Supports unlimited amount of storage accounts and adding new ones with very few simple steps
 - Deposits are fast via binance pay
+- Web management panel:
+    - Auto scheduled restarts
+    - Auto restart on crash:
+        - in case of something breaking, stops restarting after many short restarts to avoid steam login limit
+             - showcases what the issue was
+    - Handling of steams downtime
+    - custom built to ensure 99.99% uptime
 
 ### This program is not available for FREE. There is no free version available.
 
+Contact: 
+
+<br>Discord: @refloow userid: 749452967207501836
+<br>Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
+<br>Email: refloowcontact@gmail.com
+<br>Discord server: https://discord.gg/hcafD8Be7X
+
 ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/dc76c539-dfc2-492d-862d-8761643a6391)
 
-
-Discord: @refloow userid: 749452967207501836
-Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
-Email: refloowcontact@gmail.com
-Discord server: https://discord.gg/hcafD8Be7X
+- stock playing message:
+- ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/01f7e06a-8619-4de8-9695-ee320fc66d9e)
 
 - Auto accepting of the friend requests
 - Auto accepting handdling of the friend requests sent while the system was offline
@@ -33,49 +44,25 @@ Discord server: https://discord.gg/hcafD8Be7X
 
 
 ## Commands
-- <------------------------- 𝐇𝐄𝐋𝐏 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 ------------------------->
-- !how2buy - shows instructions how to buy keys.
-- !how2sell - shows instructions how to sell keys.
-- <------------------------- 𝐓𝐑𝐀𝐃𝐈𝐍𝐆 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 ------------------------>
-- !buy <key amount> <cryptocurrency> - buys <key amount> keys from your <cryptocurrency> balance and automatically sends the trade offer.
-- !sell <key amount> <cryptocurrency> - sends a trade offer with <key amount> of your keys. When accepted, you will get <cryptocurrency> balance.
-- !deposit instructions how to deposit.
-- !withdraw <crypto amount> <cryptocurrency> <address> - withdraws <crypto amount> of your <cryptocurrency> balance to <address>. 
-- <----------------------- 𝐓𝐑𝐀𝐃𝐈𝐍𝐆 𝐈𝐍𝐅𝐎 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 --------------------->
-- !prices [cryptocurrency] - shows current crypto and key prices. (!price can be used without anything passed afterwards for all prices)
-- !fees [cryptocurrency] - shows current crypto withdrawal fees. (!fees can be used without anything passed afterwards for all fees)
-- !mins [cryptocurrency] - shows minimum crypto withdrawal amounts. (!mins can be used without anything passed afterwards for all minimal withdrawal amounts)
-- !balance - shows your balances.
-- !stock - shows how many keys the bot has.
-- <-------------------------- 𝐏𝐑𝐈𝐂𝐄 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐈𝐎𝐍𝐒 ---------------------->
-- !buycost <key amount> [cryptocurrency] - shows the cost of <key amount> keys if you were buying.
-- !sellcost <key amount> [cryptocurrency] - shows the cost of <key amount> keys if you were selling.
-- !buyamount <crypto amount> <cryptocurrency> - shows how many keys you can buy with <crypto amount> <cryptocurrency>.
-- !sellamount <crypto amount> <cryptocurrency> - shows how many keys you need to sell to get <crypto amount> <cryptocurrency>.
--  <----------------------------- 𝐒𝐓𝐎𝐂𝐊 𝐀𝐋𝐄𝐑𝐓𝐒 ------------------------->
-- !announcements on/off - receive broadcasted announcements regarding the service 
-- !stockalert on/off <key amount> - receive a notification via chat when bot's stock reaches <key amount> or more keys (so you will be able to buy/deposit that much).
-- !spacealert on/off <key amount> - receive a notification via chat when bot's stock reaches <key amount> empty space (so you will be able to sell/withdraw that much).
-- <------------------------- 𝐆𝐄𝐍𝐄𝐑𝐀𝐋 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 --------------------->
-- !owner - display owner profile
-- !rate - current bot prices
-- !price - current bot prices
-- !tradelink yourtradelink - initiate your account by setting the trade url
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/de294371-606d-4e80-a3f9-cc3ee7a01c21)
+
 
 ## Admin commands such as:
-- !genacc number - This will generate x amount of new accounts in the system which code will be ran on each start. Make sure to edit config adittionally adding new login details for each account from the given template in config.js
-- !setprice buyLowCap buyHighCap sellLowCap sellHighCap - This will set ranges in which bot will buy / sell keys for based on the amount of space left. buyLowCap is lowest number of $ bot will give for a key buyHighCap is highest bot will pay for a key, sellLowCap is lowest bot will sell key for, sellHighCap is the highest bot will sell key for. Example: !setprice 1.70 1.80 1.80 1.85
-- !ussage - check the amount of resources script consumes
-- !block [steamID] - Block user with given steamID
-- !restart - restarts the bot
-- !exit - stops the bot and exits gracefully
-- !refresh - refreshes the bot
-- !pause5m - pauses bot for 5 min and then proceed with an restart
-- !pause10m - pauses bot for 10 min and then proceed with an restart
-- !pause1h - pauses bot for 1 hour and then proceed with an restart
-- !pause2h - pauses bot for 2 hours and then proceed with an restart
-- !broadcastall - any message after this command will be sent to all users in bots's friendlist (experiemntal)
-- !broadcast - only send message to users who have, done !announcements ON\
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/6959f621-7d43-4fe1-ba82-6153a10fdaf7)
+
+
+## Discord bot with stats, alerts and calculations
+### Its commands:
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/0e9fd537-4d1a-4cd9-bddb-f8ddff8c95aa)
+
+### Its stats:
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/7ab29cec-ef76-40d3-8e21-49b72017b53d)
+
+### Its custom playing message:
+
+![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/29d7e3bb-8b96-46db-8e34-f56eb8ee0b47)
+
+
 
   ## experimental features
 
