@@ -6,7 +6,8 @@ Steam-Crypto-Exchange-PRO is an cryptocurrency (300+ cryptos supported) tf2 key 
 - Deposits are fast via binance pay
 
 ### This program is not available for FREE. There is no free version available.
-![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/9008c1cd-594a-4b27-88d7-90a0f1428075)
+![image](![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/ea4b4970-996e-4778-a6ee-bc562f47d251)
+)
 Discord: @refloow userid: 749452967207501836
 Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
 Email: refloowcontact@gmail.com
