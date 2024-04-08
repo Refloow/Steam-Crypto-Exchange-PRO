@@ -34,8 +34,13 @@ Contact:
 - Admin commands
 - Variety of user commands
 - Indepth customizability
-- Admin console logs indicating what is currently happening in an easy manner
+- Admin console logs indicating what is currently happening in an easy manner:
+   - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/b0fca6ed-79ab-4a37-bcbc-94ae0c9b6378)
+
 - Admin proof of reserve check on start
+    - In case of an issue spotted, alerting admins:
+        - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/98f5e65d-84a4-43cb-a374-dba92842f0bf)
+     
 - User accounts auto handling system
 - Order history (Completed, Half Completed, Declined)
 - User chatlogs by day & buy user
