@@ -32,7 +32,7 @@ Contact:
 - Scammer check system with tf2 community backpack.tf integration, to check ban statuses and refuse service to risky users, who most likely scammed the items
 - Auto accepting of the online friend requests
     - Bonus accepting handdling of the friend requests sent while the system was offline
-- Invite to selected groups
+- Invite users to selected groups
     - Option to reject or auto accept group invites   
 - Spam detection and prevention system
     - Alerting admins, auto removing & option to block the user    
