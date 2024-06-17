@@ -1,6 +1,6 @@
 {
   "name": "steam-crypto-exchange-pro",
-  "version": "1.0.1",
+  "version": "1.4.0",
   "description": "TF2 Steam Key to crypto exchange bot using binance",
   "main": "./app/index.js",
   "keywords": [
