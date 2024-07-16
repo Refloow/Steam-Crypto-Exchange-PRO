@@ -1,7 +1,8 @@
 # Steam-Crypto-Exchange-PRO
-Steam-Crypto-Exchange-PRO is an cryptocurrency (400+ cryptos supported and ALL networks for withdrawals) tf2 key trading cashout exchange service storefront with unlimited amount of storage accounts integrated with Binance. Fully professional commercial software with endless customization and variety of features.
+Steam-Crypto-Exchange-PRO is an cryptocurrency (382+ cryptos supported (with ability to suppport at the same time) and ALL networks for withdrawals) tf2 key trading cashout exchange service storefront with unlimited amount of storage accounts integrated with Binance. Fully professional commercial software with endless customization and variety of features.
 
-- Has 400+ cryptocurrencies supported and can be set for users to exchange keys for / withdraw via Binance.
+- Has 400+ cryptocurrencies supported and can be set for users to exchange keys for / withdraw via Binance, which can be enabled to be supported all at the same time
+- In case of all support being turned on, it auto adds all new currencies that get listed on binance
 - Supports unlimited amount of storage accounts and adding new ones with very few simple steps
 - Deposits are fast via binance pay
 - Web management panel:
@@ -11,6 +12,7 @@ Steam-Crypto-Exchange-PRO is an cryptocurrency (400+ cryptos supported and ALL n
              - showcases what the issue was
     - Handling of steams downtime
     - custom built to ensure 99.99% uptime
+    - Detailed stats, data overview in form of customizable charts
 
 ### This program is not available for FREE. There is no free version available.
 
