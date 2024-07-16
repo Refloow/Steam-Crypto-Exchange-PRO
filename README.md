@@ -92,6 +92,22 @@ Contact:
 - fully scalable with mobile support:
 - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/237c3d79-4773-4e5f-b16d-39b3ce86a8ae)
 
+**Charts:**
+
+| **Chart** | **By** | **Types** | **Comparable** |
+|-----------|--------|-----------|----------------|
+| **Total Profit** | DAY, MONTH | LINE, BAR | - |
+| **Total Transactions** | DAY, MONTH | LINE, BAR | Total User Key Buys, Total User Key Sells, Total Transactions (Combined) |
+| **Total Volumes** | DAY, MONTH | LINE, BAR | Total Key Volumes, User Buying Keys Volume, User Selling Keys Volume, Total Dollar Volumes, Total Dollar Volumes (Buying), Total Dollar Volumes (Selling) |
+| **New Users** | DAY, MONTH | LINE, BAR | - |
+| **Active Users (Chat)** | DAY, MONTH | LINE, BAR | - |
+| **Active Users (Completed Transactions)** | DAY, MONTH | LINE, BAR | - |
+| **Trending Coins Total By Transactions** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
+| **Trending Coins (User Selling Keys) by Transaction Counts** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
+| **Trending Coins (User Buying Keys) by Transaction Counts** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
+| **Trending Coins Total By Volume** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
+| **Trending Coins Volume By User Selling** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
+| **Trending Coins Volume By User Buying** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
 
 
   ## experimental features
