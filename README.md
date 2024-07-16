@@ -115,12 +115,6 @@ Contact:
 | **Trending Coins Volume By User Selling** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
 | **Trending Coins Volume By User Buying** | All Time | BAR, PIE, DOUGHNUT, LINE | - |
 
-
-  ## experimental features
-
-  - space to key price self adjusting to give different rates based on stock
-  - user & overall statistics via admin web panel
-
 ### Not all features and capabilities are publicly disclosed
 
 # contact
