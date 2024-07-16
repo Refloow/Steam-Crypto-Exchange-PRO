@@ -22,7 +22,11 @@ Contact:
 <br>Discord server: https://discord.gg/hcafD8Be7X
 
 # Web management panel:
-![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/dc76c539-dfc2-492d-862d-8761643a6391)
+![image](https://github.com/user-attachments/assets/5f88155c-c7c3-44ba-bb3d-5dcab9e8cbd4)
+![image](https://github.com/user-attachments/assets/1beac833-7e03-48e9-9376-45832df53f26)
+
+
+
 
 - stock playing message:
     - ![image](https://github.com/Refloow/Steam-Crypto-Exchange-PRO/assets/59449926/01f7e06a-8619-4de8-9695-ee320fc66d9e)
