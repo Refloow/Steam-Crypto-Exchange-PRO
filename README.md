@@ -4,7 +4,7 @@ Steam-Crypto-Exchange-PRO is an cryptocurrency (382+ cryptos supported (with abi
 - Has 400+ cryptocurrencies supported and can be set for users to exchange keys for / withdraw via Binance, which can be enabled to be supported all at the same time
 - In case of all support being turned on, it auto adds all new currencies that get listed on binance
 - Supports unlimited amount of storage accounts and adding new ones with very few simple steps
-- Deposits are fast via binance pay
+- Deposits are fast via binance pay!
 - Web management panel:
     - Auto scheduled restarts
     - Auto restart on crash:
