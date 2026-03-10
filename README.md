@@ -23,6 +23,8 @@ Contact:
 <br>Email: refloowcontact@gmail.com
 <br>Discord server: https://discord.gg/hcafD8Be7X
 
+official telegram channel: https://t.me/+uE4ZPJKaTL9iYjQ0
+
 # Web management panel:
 ![image](https://github.com/user-attachments/assets/5f88155c-c7c3-44ba-bb3d-5dcab9e8cbd4)
 ![image](https://github.com/user-attachments/assets/1beac833-7e03-48e9-9376-45832df53f26)
