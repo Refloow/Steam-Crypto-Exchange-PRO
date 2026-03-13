@@ -14,7 +14,7 @@ Steam-Crypto-Exchange-PRO is an cryptocurrency (382+ cryptos supported (with abi
     - custom built to ensure 99.99% uptime
     - Detailed stats, data overview in form of customizable charts
 
-### This program is not available for FREE. This is a project portfolio showcase
+### This program is not available for FREE. This is a project portfolio showcase!
 
 Contact: 
 
