@@ -22,8 +22,8 @@ Contact:
 <br>Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
 <br>Email: refloowcontact@gmail.com
 <br>Discord server: https://discord.gg/hcafD8Be7X
-
-official telegram channel: https://t.me/+uE4ZPJKaTL9iYjQ0
+<br> official telegram channel: https://t.me/+uE4ZPJKaTL9iYjQ0
+Onchain only version also available!
 
 # Web management panel:
 ![image](https://github.com/user-attachments/assets/5f88155c-c7c3-44ba-bb3d-5dcab9e8cbd4)
